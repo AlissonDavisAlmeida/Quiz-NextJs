@@ -13,7 +13,7 @@ const questaoMock = new QuestaoModel(4, "Essa é uma questão", [
   RespostaModel.certa("Barbeiro")
 ], false);
 
-const BASE_URL = "https://quiz-next-js-nine.vercel.app/api";
+const BASE_URL = "https://quiz-next-js-cuqoinel6-alissondavisalmeida.vercel.app/api";
 
 export default function Home() {
 
